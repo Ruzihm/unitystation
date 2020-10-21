@@ -19,9 +19,9 @@ To make a proper standalone build, you should set up build settings (only once).
 
 ![](https://camo.githubusercontent.com/b2be111d41c3898d0efb0255e0878c5e3e2cc4ae/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f525554726f665a46517a79784d6851396a4d784779412e706e67)
 
-* Make sure that **both scenes are ticked**:
+* Make sure that **all three scenes are ticked**:
 
-![](https://camo.githubusercontent.com/8fb35c8c3a3c25b6fa3e59231a51aefb50e18f76/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f316d4a6f7041563652476d524c5f5034525a4b374f672e706e67)
+![](https://i.imgur.com/XOkBykE.png)
 
 (If you don't see your current scene in the list, press `Add Open Scenes` button)
 
